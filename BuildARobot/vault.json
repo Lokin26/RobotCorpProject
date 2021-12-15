@@ -1,0 +1,10 @@
+{
+    "robotsparebin": {
+        "username": "Robot_username",
+        "password": "Robot_password"
+    },
+    "assets": {
+        "target_url": "https://robotsparebinindustries.com/#/robot-order",
+        "orderfile_url": "https://robotsparebinindustries.com/orders.csv"
+    }
+}
